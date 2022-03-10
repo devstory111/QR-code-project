@@ -1,0 +1,58 @@
+* {
+    box-sizing: border-box;
+    
+}
+
+body {
+    background-color: #f0ebdd;
+    box-sizing: border-box;
+}
+
+
+/*Content style*/
+
+.content {
+    background: white;
+    width: 300px;
+    height: 480px;
+    margin: auto;
+    border-radius: 15px;
+    margin-top: 111px;
+    
+    
+
+}
+
+/*QR code settings, you can change size of image*/
+
+#qrcode {
+    width: 280px;
+    height: auto;
+    border-radius: 15px;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
+/* First headline style */
+
+.headline {
+    font-size: 22px;
+    overflow: hidden;
+    margin-left: 10px;
+    padding-left: 14px;
+    padding-right: 8px;
+    margin-top: 1px;
+    
+}
+
+/* Second headline style*/
+
+.subheadline {
+   
+    
+    margin-left: 10px;
+    padding-left: 14px;
+    padding-right: 18px;
+    margin-top: 1px;
+    
+}
